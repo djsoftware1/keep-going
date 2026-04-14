@@ -1,0 +1,5 @@
+# djsoftware.tech - https://github.com/djsoftware/djutils-workspace
+
+#temporary build folders
+/build/
+/build-windows/
