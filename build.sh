@@ -1,6 +1,7 @@
 #!/usr/bin/env sh
 # https://github.com/djsoftware1/keep-going
 #
+# Copyright David Joffe / DJ Software. MIT License
 # Created 6 Jan 2026 by David Joffe
 
 set -eu
@@ -11,7 +12,7 @@ set -eu
 BUILD_DIR=${BUILD_DIR:-build}
 BUILD_TYPE=${BUILD_TYPE:-Relesase}
 
-echo "==> Building keep-going"
+echo "== Building keep-going"
 echo "    build dir : $BUILD_DIR"
 echo "    build type: $BUILD_TYPE"
 
